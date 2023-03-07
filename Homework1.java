@@ -30,7 +30,7 @@ public class Homework1 {
         return false;
     }
 
-    // проверить, что х положительное
+    // проверить, что х положительное число
     private static boolean isPositive(int x) {
         if (x >= 0) {
             return true;
